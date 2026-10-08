@@ -1,0 +1,6 @@
+solara
+pandas
+pyarrow
+fastparquet
+openpyxl
+
